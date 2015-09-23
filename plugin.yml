@@ -1,5 +1,5 @@
 name: Anti Op Kick
-main: main\antiopkick
+main: main\ANTIOPKICK
 version: 1.4
 api: 1.4.0
 load: STARTUP
