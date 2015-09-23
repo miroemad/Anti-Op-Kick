@@ -1,0 +1,9 @@
+name: Anti Op Kick
+main: main\antiopkick
+version: 1.4
+api: 1.4.0
+load: STARTUP
+author: Amir Emad
+authors: [Amiro Company]
+description: Prevent OP From Kicking Another Op
+website: http://www.amirocompany.tk
